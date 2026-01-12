@@ -1,0 +1,7 @@
+{
+  "name": "宠缘 PawsConnect - 宠物领养平台",
+  "description": "一个现代化的宠物领养平台，通过 AI 驱动的宠物匹配和性格分析，助您找到最合适的毛茸茸伙伴。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
